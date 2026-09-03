@@ -28,10 +28,6 @@ Docker · Kubernetes · RabbitMQ · Kafka · Prometheus · Grafana
 **Currently exploring**
 Go
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miladkhoshdel&theme=github)
-
 ## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/miladkhoshdel)
